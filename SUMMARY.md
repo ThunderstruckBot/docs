@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Home](README.md)
+
 ## Links
 
 * [Terms of Services](https://thunderstruck.gg/tos)
@@ -10,9 +12,9 @@
 
 ## Commands
 
-* [Miscellaneous](README.md)
-* [Images](commands/page-9.md)
-* [Search](commands/page-10.md)
+* [Miscellaneous](commands/miscellaneous.md)
+* [Images](commands/images.md)
+* [Search](commands/search.md)
 * [Configuration](commands/configuration.md)
 * [Fun](commands/fun.md)
 * [Social](commands/social.md)
