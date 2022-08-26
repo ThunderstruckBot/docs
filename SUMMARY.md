@@ -5,6 +5,8 @@
 * [Terms of Services](https://thunderstruck.gg/tos)
 * [Privacy Policy](https://thunderstruck.gg/privacy)
 * [Invite](https://thunderstruck.gg/invite)
+* [Website](https://thunderstruck.gg/)
+* [Support Server](https://thunderstruck.gg/support)
 
 ## Commands
 
