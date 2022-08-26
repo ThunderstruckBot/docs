@@ -3,6 +3,7 @@
 ## Index
 
 * [Home](README.md)
+* [About Us](index/about-us.md)
 
 ## Links
 
@@ -14,9 +15,9 @@
 
 ## Commands
 
-* [Miscellaneous](commands/miscellaneous.md)
-* [Images](commands/images.md)
-* [Search](commands/search.md)
+* [Miscellaneous](<README (1).md>)
+* [Images](commands/page-9.md)
+* [Search](commands/page-10.md)
 * [Configuration](commands/configuration.md)
 * [Fun](commands/fun.md)
 * [Social](commands/social.md)
