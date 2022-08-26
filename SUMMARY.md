@@ -1,11 +1,10 @@
 # Table of contents
 
-* [docs](README.md)
-
 ## Commands
 
-* [Page 9](commands/page-9.md)
-* [Page 10](commands/page-10.md)
+* [Miscellaneous](README.md)
+* [Images](commands/images.md)
+* [Search](commands/search.md)
 * [Configuration](commands/configuration.md)
 * [Fun](commands/fun.md)
 * [Social](commands/social.md)
