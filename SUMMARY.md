@@ -1,5 +1,7 @@
 # Table of contents
 
+## Index
+
 * [Home](README.md)
 
 ## Links
