@@ -15,7 +15,6 @@
 
 ## Commands
 
-* [Miscellaneous](<README (1).md>)
 * [Configuration](commands/configuration.md)
 * [Fun](commands/fun.md)
 * [Social](commands/social.md)
@@ -31,3 +30,4 @@
 * [Anti-Systems](commands/anti-systems.md)
 * [Images](commands/images.md)
 * [Search](commands/search.md)
+* [Miscellaneous](commands/miscellaneous.md)
